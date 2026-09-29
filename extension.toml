@@ -1,0 +1,14 @@
+id = "cheby"
+name = "Cheby"
+version = "0.1.0"
+schema_version = 1
+authors = ["xikxp1 <xikxp1@gmail.com>"]
+description = "Cheby language support"
+repository = "https://github.com/cheby-lang/zed-cheby"
+
+[grammars.cheby]
+# For local development this points at the sibling checkout. Zed clones the
+# repository and checks out `rev`, so `rev` must be a committed SHA. Switch to
+# the GitHub URL before publishing.
+repository = "file:///Users/xikxp1/Projects/cheby-lang/tree-sitter-cheby"
+rev = "f75eb3f18f25456b10d0a5d9501ce47d5fa19c38"
