@@ -2,7 +2,6 @@
 (_ "(" ")" @end) @indent
 (_ "[" "]" @end) @indent
 (_ "<" ">" @end) @indent
-(turbofish "::<" ">" @end) @indent
 
 [
   (let_statement)
