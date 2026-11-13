@@ -1,6 +1,6 @@
 id = "cheby"
 name = "Cheby"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["xikxp1 <xikxp1@gmail.com>"]
 description = "Cheby language support"
