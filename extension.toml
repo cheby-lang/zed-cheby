@@ -1,6 +1,6 @@
 id = "cheby"
 name = "Cheby"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["xikxp1 <xikxp1@gmail.com>"]
 description = "Cheby language support"
@@ -12,3 +12,7 @@ repository = "https://github.com/cheby-lang/zed-cheby"
 # the GitHub URL before publishing.
 repository = "https://github.com/cheby-lang/tree-sitter-cheby"
 rev = "4e387e9b28ef06d95a0dfc5065ed531eb781e154"
+
+[language_servers.cheby]
+name = "Cheby"
+languages = ["Cheby"]
