@@ -11,7 +11,7 @@ repository = "https://github.com/cheby-lang/zed-cheby"
 # repository and checks out `rev`, so `rev` must be a committed SHA. Switch to
 # the GitHub URL before publishing.
 repository = "https://github.com/cheby-lang/tree-sitter-cheby"
-rev = "4e387e9b28ef06d95a0dfc5065ed531eb781e154"
+rev = "b490f82ac6fbd71d0265d10ea653332e98754d9e"
 
 [language_servers.cheby]
 name = "Cheby"
